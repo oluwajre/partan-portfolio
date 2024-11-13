@@ -1,5 +1,5 @@
 import Navbar from "./Navbar/Navbar";
-import IntroSection from "./introSection/introSection";
+import IntroSection from './IntroSection/IntroSection';
 import Companies from "./Companies/Companies";
 import Services from "./Services/Services";
 import Testimonials from "./Testimonials/Testimonials";
