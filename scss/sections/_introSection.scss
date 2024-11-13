@@ -1,0 +1,54 @@
+@use '../general' as *;
+@use '../components/mixins' as *;
+
+.intro-section {
+    
+    @include gradient;
+    padding: 10rem 0 0 0;
+    width: 100%;
+    height: 100%;
+
+    .intros {
+
+        .video-box {
+    
+            .icon {
+                font-size: 6rem;
+                color: $secondary;
+                cursor: pointer;
+            }
+
+            .border-animation {
+                width: 6rem;
+                height: 6rem;
+                border: 0.55rem solid $white;
+                border-radius: 50%;
+                cursor: pointer;
+            }
+
+        }
+    
+    }
+}
+
+.videoOverlay {
+    z-index: 9999;
+    background-color: rgba(0, 0, 0, 0.9);
+
+    .video {
+        max-width: 560px;
+    }
+
+    button {
+
+        .icon {
+            font-size: 1.5rem;
+        }
+    }
+    
+}
+
+
+
+
+

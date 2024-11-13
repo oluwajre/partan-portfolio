@@ -1,0 +1,19 @@
+@use '../general' as *;
+@use '../components/mixins' as *;
+
+
+.menu {
+    //This is a mixin, a reusable style
+    @include gradient;
+
+    li {
+        padding: 0 0.7rem;
+    
+        a {
+            color: $white !important;
+            text-transform: capitalize;
+            font-weight: 600;
+        }
+    }
+}
+
