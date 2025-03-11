@@ -12,22 +12,22 @@ const Footer = () => {
                 <div className="col-md-4 col-lg-4 contact-box pt-1 d-md-block d-lg-flex d-flex align-items-center">
                     <FontAwesomeIcon icon={faPhoneVolume} className='contact-box__icon mb-lg-2' />
                     <div className="contact-box__info">
-                        <a href="tel:+2349137819540" className="contact-box__info--title">+234 913 781 9540</a>
+                        <a href="tel:+2349137819540" className="contact-box__info--title">+91 98765 43210</a>
                         <p className="contact-box__info--subtitle">Mon-Fri 9am-6pm</p>
                     </div>
                 </div>
                 <div className="col-md-4 col-lg-4 contact-box pt-1 d-md-block d-lg-flex d-flex align-items-center">
                     <FontAwesomeIcon icon={faEnvelopeOpenText} className='contact-box__icon mb-lg-2' />
                     <div className="contact-box__info">
-                        <a href="mailto:oluwajre2412" className="contact-box__info--title">oluwajre2412@gmail.com</a>
+                        <a href="mailto:oluwajre2412" className="contact-box__info--title">support@partan.com</a>
                         <p className="contact-box__info--subtitle">Online support</p>
                     </div>
                 </div>
                 <div className="col-md-4 col-lg-4 contact-box pt-1 d-md-block d-lg-flex d-flex align-items-center">
                     <FontAwesomeIcon icon={faMapLocation} className='contact-box__icon mb-lg-2' />
                     <div className="contact-box__info">
-                        <a href="" className="contact-box__info--title">Lagos, Nigeria</a>
-                        <p className="contact-box__info--subtitle">LG 100281, NG</p>
+                        <a href="" className="contact-box__info--title">Karnataka, India</a>
+                        <p className="contact-box__info--subtitle">123 Business Avenue, Bengaluru</p>
                     </div>
                 </div>
             </div>
@@ -53,13 +53,13 @@ const Footer = () => {
         <div className="container mt-5">
             <div className="row text-white justify-content-center mt-3 pb-3">
                 <div className="col-12 col-sm-6 col-lg-6 mx-auto">
-                    <h5 className="text-capitalize fw-bold">Company Name</h5>
+                    <h5 className="text-capitalize fw-bold">Patrix</h5>
                     <hr className='bg-white d-inline-block mb-4' style={{ width: '60px', height: '2px'}}/>
                     <p className="lh-lg">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem impedit molestiae iure adipisci pariatur saepe harum architecto.
+                        Have questions or need assistance? We’re here to help! Whether you’re looking for expert advice, custom solutions, or support for your existing services, our team is ready to assist you.
                     </p>
                 </div>
-                <div className="col-12 col-sm-6 col-lg-2 mb-4 mx-auto">
+                {/* <div className="col-12 col-sm-6 col-lg-2 mb-4 mx-auto">
                     <h5 className="text-capitalize fw-bold">Products</h5>
                     <hr className='bg-white d-inline-block mb-4' style={{ width: '60px', height: '2px'}}/>
                     <ul className="list-inline company-list">
@@ -68,7 +68,7 @@ const Footer = () => {
                         <li><a href="#">Lorem Ipsum</a></li>
                         <li><a href="#">Lorem Ipsum</a></li>
                     </ul>
-                </div>
+                </div> */}
                 <div className="col-12 col-sm-6 col-lg-2 mb-4 mx-auto">
                     <h5 className="text-capitalize fw-bold">Useful Links</h5>
                     <hr className='bg-white d-inline-block mb-4' style={{ width: '60px', height: '2px'}}/>
@@ -97,7 +97,7 @@ const Footer = () => {
                 <div className="row text-center text-white">
                     <div className="col-12">
                         <div className="footer-bottom__copyright">
-                        <FontAwesomeIcon icon={faCopyright} className='icon me-1' />Copyright 2024 <a href="#">Multi-purpose Company</a> | Created by <a href="#">Adeolu</a>
+                        <FontAwesomeIcon icon={faCopyright} className='icon me-1' />Copyright 2025 <a href="#">Multi-purpose Company</a> | Created by <a href="#">Adeolu</a>
                         </div>
                     </div>
                 </div>

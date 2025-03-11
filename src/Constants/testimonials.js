@@ -6,28 +6,28 @@ import client_5 from '../assets/images/testimonials/client-5.jpg';
 
 const clientData = {
     client_1: {
-        name: 'Ajayi Adeoluwa', 
-        role: 'CEO & Founder'
+        name: 'Daniel Kovács', 
+        role: 'Operations Director at EuroBiz Solutions'
     },
 
     client_2: {
         name: 'ClaireBelle Zawadi',
-        role: 'Global Brand Manager'
+        role: 'IT Manager at NexaTech'
     },
 
     client_3: {
-        name: 'Joy Marete',
-        role: 'Finance Manager'
+        name: 'Emma Johansson',
+        role: 'Marketing Director at TrendHive'
     },
 
     client_4: {
-        name: 'Patrick Muriungi',
-        role: 'CEO & Founder'
+        name: 'Lucas Müller',
+        role: 'Founder & CEO at SwiftMart'
     },
 
     client_5: {
-        name: 'Adelabi Emmanuel',
-        role: 'Head of Human Resources'
+        name: 'Ravi Sharma',
+        role: 'CTO at TechNova Solutions'
     }
 }
 

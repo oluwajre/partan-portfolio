@@ -25,8 +25,7 @@ const Testimonials = () => {
                         <div className="testimonials__card">
                             <p className="lh-lg">
                                 <FontAwesomeIcon icon={faQuoteLeft} className='icon' />
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione rem necessitatibus, 
-                                ut reiciendis voluptatibus quaerat quas est id, iusto aut aliquam!
+                                    Their consulting services transformed the way we operate. They helped us automate our processes, saving time and increasing efficiency.
                                 <FontAwesomeIcon icon={faQuoteRight} className='icon' />
                             </p>
                             <div className="ratings p-1">
@@ -55,8 +54,7 @@ const Testimonials = () => {
                         <div className="testimonials__card">
                             <p className="lh-lg">
                                 <FontAwesomeIcon icon={faQuoteLeft} className='icon' />
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione rem necessitatibus, 
-                                ut reiciendis voluptatibus quaerat quas est id, iusto aut aliquam!
+                                    Patrix’s cloud hosting is incredibly reliable, and their security features give us peace of mind. Our business runs smoothly without any downtime.
                                 <FontAwesomeIcon icon={faQuoteRight} className='icon' />
                             </p>
                             <div className="ratings p-1">
@@ -85,8 +83,7 @@ const Testimonials = () => {
                         <div className="testimonials__card">
                             <p className="lh-lg">
                                 <FontAwesomeIcon icon={faQuoteLeft} className='icon' />
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione rem necessitatibus, 
-                                ut reiciendis voluptatibus quaerat quas est id, iusto aut aliquam!
+                                    From branding to digital marketing, Patrix provided top-notch services that truly made an impact. Our engagement rates skyrocketed within months!
                                 <FontAwesomeIcon icon={faQuoteRight} className='icon' />
                             </p>
                             <div className="ratings p-1">
@@ -115,8 +112,7 @@ const Testimonials = () => {
                         <div className="testimonials__card">
                             <p className="lh-lg">
                                 <FontAwesomeIcon icon={faQuoteLeft} className='icon' />
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione rem necessitatibus, 
-                                ut reiciendis voluptatibus quaerat quas est id, iusto aut aliquam!
+                                    They understood our vision and turned it into reality. The website they built for us is sleek, fast, and highly responsive. Highly recommend their services!
                                 <FontAwesomeIcon icon={faQuoteRight} className='icon' />
                             </p>
                             <div className="ratings p-1">
@@ -145,8 +141,7 @@ const Testimonials = () => {
                         <div className="testimonials__card">
                             <p className="lh-lg">
                                 <FontAwesomeIcon icon={faQuoteLeft} className='icon' />
-                                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione rem necessitatibus, 
-                                ut reiciendis voluptatibus quaerat quas est id, iusto aut aliquam!
+                                    Working with Patrix was a game-changer for our business. Their cloud hosting solutions ensured 99.9% uptime, and their customer support is top-notch!
                                 <FontAwesomeIcon icon={faQuoteRight} className='icon' />
                             </p>
                             <div className="ratings p-1">

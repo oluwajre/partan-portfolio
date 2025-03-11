@@ -11,7 +11,7 @@ const GetStarted = () => {
                 <h1 className="display-3 fw-bold text-capitalize">Get Started</h1>
                 <div className="heading-line"></div>
                 <p className="lh-lg">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ipsum illo omnis!
+                    To be a global leader in our industry, setting new standards for innovation, quality, and customer satisfaction.
                 </p>
             </div>
 
@@ -19,7 +19,7 @@ const GetStarted = () => {
                 <div className="col-12 col-lg-6 gradient shadow p-3">
                     <div className="cta-info w-100">
                         <h4 className="display-4 fw-bold">100% Satisfaction Guaranteed</h4>
-                        <p className="lh-lg">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos laboriosam explicabo enim ex possimus aliquid in minima culpa saepe. Culpa, iste.</p>
+                        <p className="lh-lg">To transform businesses with tailored solutions that drive success, efficiency, and growth.</p>
                         <h3 className="display-3--brief">What will be the next step</h3>
                         <ul className="cta-info__list">
                             <li><FontAwesomeIcon icon={faCheck} className='icon'/>We'll prepare the proposal</li>

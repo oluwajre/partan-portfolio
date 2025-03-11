@@ -42,7 +42,7 @@ const Navbar = () => {
         <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
         <button className="btn btn-outline-success" type="submit">Search</button>
       </form> */}
-      <button type='button' className='rounded-pill btn-rounded'>09137819540
+      <button type='button' className='rounded-pill btn-rounded'>+91 98765 43210
         <span><FontAwesomeIcon icon={faPhone} className='icon'/></span>
       </button>
     </div>

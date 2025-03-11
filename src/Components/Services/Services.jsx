@@ -23,7 +23,7 @@ const Services = () => {
                 </div>
                 <div className="col-md-6">
                     <div className="bg-white p-4 text-start">
-                        <p className="fw-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur nam ad neque sunt totam vero recusandae doloremque officiis nostrum, numquam mollitia ipsam facilis eveniet sapiente corrupti?</p>
+                        <p className="fw-light">Partan is a dynamic and innovative company dedicated to providing top-tier solutions in [industry name]. With a passion for excellence, we leverage technology, creativity, and strategy to deliver outstanding results for our clients.</p>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@ const Services = () => {
                     <div className="services__content">
                         <FontAwesomeIcon icon={faPaperPlane} className='icon'/>
                         <h3 className="display-3--title mt-1">Marketing</h3>
-                        <p className="lh-lg">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate incidunt accusamus nihil! Sint natus recusandae atque nisi ullam odio totam suscipit. Sunt, dignissimos. Non dolores debitis voluptate.</p>
+                        <p className="lh-lg">From SEO to social media advertising, we craft marketing strategies that boost brand awareness and drive conversions.</p>
                         <button type='button' className='rounded-pill btn-rounded border-primary'>Learn more
                             <span><FontAwesomeIcon icon={faArrowRight} className='icon'/></span>
                         </button>
@@ -57,7 +57,7 @@ const Services = () => {
                     <div className="services__content">
                         <FontAwesomeIcon icon={faCode} className='icon'/>
                         <h3 className="display-3--title mt-1">Web Development</h3>
-                        <p className="lh-lg">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate incidunt accusamus nihil! Sint natus recusandae atque nisi ullam odio totam suscipit. Sunt, dignissimos. Non dolores debitis voluptate.</p>
+                        <p className="lh-lg">We design and develop user-friendly websites and mobile applications tailored to your business needs.</p>
                         <button type='button' className='rounded-pill btn-rounded border-primary'>Learn more
                             <span><FontAwesomeIcon icon={faArrowRight} className='icon'/></span>
                         </button>
@@ -69,7 +69,7 @@ const Services = () => {
                     <div className="services__content">
                         <FontAwesomeIcon icon={faCloudUploadAlt} className='icon'/>
                         <h3 className="display-3--title mt-1">Cloud Hosting</h3>
-                        <p className="lh-lg">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet cupiditate incidunt accusamus nihil! Sint natus recusandae atque nisi ullam odio totam suscipit. Sunt, dignissimos. Non dolores debitis voluptate.</p>
+                        <p className="lh-lg">Reliable, secure, and high-performance cloud hosting solutions tailored to your business needs. We ensure maximum uptime, scalability, and data security.</p>
                         <button type='button' className='rounded-pill btn-rounded border-primary'>Learn more
                             <span><FontAwesomeIcon icon={faArrowRight} className='icon'/></span>
                         </button>

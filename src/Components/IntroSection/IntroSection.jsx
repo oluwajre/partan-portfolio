@@ -60,7 +60,7 @@ const IntroSection = () => {
                     <h1 className="display-2">
                         <span className="display-2 intro">Welcome to Patrix</span>
                         <span className="display-2 description lh-base">
-                            This is a multi-purpose portfolio landing page built with react and bootstrap v5. (here you can place your description text)
+                            We help brands and companies achieve their goals through cutting-edge technology and strategic expertise.
                         </span>
                     </h1>
                     <button type='button' className='rounded-pill btn-rounded'>Get in Touch 
